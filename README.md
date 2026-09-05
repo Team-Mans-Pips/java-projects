@@ -1,1 +1,1 @@
-This repository consists of various Java project
+This repository consists of various Java projects.
