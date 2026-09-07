@@ -1,9 +1,6 @@
-
-
 public class Main {
     public static void main(String[] args) {
-
-        System.out.println("MAIN");
-
+        Polonia p1 = new Polonia("Polonia", 2329384, 23424, "Varsavia");
+        System.out.println(p1.toString());
     }
 }
